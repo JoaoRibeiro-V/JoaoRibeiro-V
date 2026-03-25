@@ -45,6 +45,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-gabriel-vasques-ribeiro-5bb714356/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -67,6 +69,8 @@
 </picture>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
