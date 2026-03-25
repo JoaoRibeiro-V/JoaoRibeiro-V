@@ -45,7 +45,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="50" src="https://i.imgur.com/v9USJKp.png"  />
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-gabriel-vasques-ribeiro-5bb714356/" target="_blank">
@@ -55,10 +57,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="50" src="https://i.imgur.com/v9USJKp.png"  />
 
 ###
 
@@ -90,12 +88,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
 </div>
 
 ###
