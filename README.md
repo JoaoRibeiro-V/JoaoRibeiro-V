@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">👾 Hello World! 🌐 Eu sou João Ribeiro</h2>
+<h2 align="center">👾 Hello World! 🌐 Eu sou João Ribeiro</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<img align="right" height="125" src="https://i.imgur.com/v9USJKp.png"  />
+<img align="right" height="50" src="https://i.imgur.com/v9USJKp.png"  />
 
 ###
 
