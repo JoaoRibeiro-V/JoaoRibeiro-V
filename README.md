@@ -32,11 +32,6 @@
 
 ###
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRibeiro-V&show_icons=true&theme=synthwave)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoRibeiro-V&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <br clear="both">
